@@ -22,15 +22,6 @@ QR CODE GENERATOR USING TKINTER MODULE
 
 DONT FORGET TO INSTALL THE FOLLOWING MODULES 
 IMPORTANT !!!
-DONT FORGET TO INSTALL TH FOLLOWING MODULES 
-#pip3 install qrcode
-#pip3 install image
-#pip install --upgrade pip
-#pip3 install tkinter
-
-
-
-
 
  
 #pip3 install qrcode
