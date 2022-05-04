@@ -35,3 +35,10 @@ IMPORTANT !!!
 
 #pip3 install tkinter
 
+
+
+
+
+![instagram qr code](https://user-images.githubusercontent.com/67371047/166676648-da9716e2-d3ce-4132-b6a9-b212dac1df76.png)
+
+
