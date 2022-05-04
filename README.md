@@ -28,6 +28,19 @@ DONT FORGET TO INSTALL TH FOLLOWING MODULES
 #pip install --upgrade pip
 #pip3 install tkinter
 
-digital clock implementation by ABDULLAAH ALQAASIM
 
-Linked in @abdullaah alqaasim : https://www.linkedin.com/in/abdullaah-alqaasim-30b960209/. Instagram @abdullaah_alqaasim: https://www.instagram.com/abdullaah_alqaasim/. Github: https://github.com/AbdullaahAlqaasim.
+
+
+
+#my github 
+#pip3 install qrcode
+
+#my instagram 
+#pip3 install image
+
+#my linked in 
+#pip install --upgrade pip
+
+#EMAIL ADDRSS 
+#pip3 install tkinter
+
