@@ -2,20 +2,22 @@
 QR CODE GENERATOR USING TKINTER MODULE 
 
 
-# program made by ABDULLAAH ALQAASIM 
-# DONT FORGET TO GIVE CREDIT  
+a python program to make your qr code  address
 
-#my github 
-#https://github.com/AbdullaahAlqaasim
 
-#my instagram 
-#https://www.instagram.com/abdullaah_alqaasim/
+qr code generator  implementation by ABDULLAAH ALQAASIM
+ 
+ 
+Linked in  @abdullaah alqaasim :  https://www.linkedin.com/in/abdullaah-alqaasim-30b960209/. 
 
-#my linked in 
-#https://www.linkedin.com/in/abdullaah-alqaasim-30b960209/
 
-#EMAIL ADDRSS 
-#abdullahalqaasim.uae@gmail.com
+Instagram @abdullaah_alqaasim: https://www.instagram.com/abdullaah_alqaasim/. 
+
+
+Github: https://github.com/AbdullaahAlqaasim. 
+
+
+youtube : 
 
 
 
