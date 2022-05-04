@@ -32,15 +32,15 @@ DONT FORGET TO INSTALL TH FOLLOWING MODULES
 
 
 
-#my github 
+ 
 #pip3 install qrcode
 
-#my instagram 
+
 #pip3 install image
 
-#my linked in 
+
 #pip install --upgrade pip
 
-#EMAIL ADDRSS 
+
 #pip3 install tkinter
 
